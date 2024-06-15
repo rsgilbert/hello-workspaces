@@ -1,19 +1,16 @@
 {
-  "name": "hello-workspaces",
+  "name": "a",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
+    "type": "module",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "uuid": "^10.0.0"
-  },
-  "workspaces": [
-    "a"
-  ]
+    "body-parser": "^1.20.2"
+  }
 }
